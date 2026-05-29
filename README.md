@@ -1,6 +1,6 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
 
-*COMPANY*: COOTECH IT SOLUTIONS 
+*COMPANY*: CODTECH IT SOLUTIONS 
 
 *NAME*:NAKKA VAMSI KRISHNA 
 
@@ -12,7 +12,7 @@
 
 *MENTOR*: Neela Santhosh Kumar 
 
-#DESCRIOTON
+#DESCRIPTON
 
 Sentiment Analysis is a technique in Natural Language Processing (NLP) used to determine the emotional tone behind a piece of text. It helps identify whether the text expresses a positive, negative, or neutral opinion. This method is widely used in analyzing customer reviews, social media comments, feedback forms, and product ratings.
 
